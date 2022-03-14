@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xyz4ky
 - 👀 I’m interested in Infrastructure
-- 🌱 I’m currently learning AWS, GCP, and Python
+- 🌱 I’m currently learning AWS, GCP, Python, and Cisco for automation inline with my current job 
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me zak_cha@rocketmail.com
 
